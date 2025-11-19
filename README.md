@@ -20,7 +20,6 @@ Check https://github.com/heex-technologies/shop-talk-cypress-instructions for de
 
 ## How to run the tests
 
-1 - Download project and go in the project terminal 
-2 - Run "npm install"
-2 - Run "npx cypress open" to run tests with Cypress GUI
-    or  "npx cypress run" to run all tests and get results in terminal
+1. Download project and go in the project terminal 
+2. Run "npm install"
+3. Run "npx cypress open" to run tests with Cypress GUI or "npx cypress run" to run all tests and get results in terminal

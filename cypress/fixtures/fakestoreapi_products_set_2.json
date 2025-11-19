@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Product 1 - v1",
+        "price": 1.0,
+        "description": "Description 1",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+        "rating": {
+            "rate":1.0,
+            "count":100
+        }
+    },
+    {
+        "id": 2,
+        "title": "Product 1 - v2",
+        "price": 2.0,
+        "description": "Description 2",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+        "rating": {
+            "rate":2.0,
+            "count":200
+        }
+    },
+    {
+        "id": 3,
+        "title": "Product 3",
+        "price": 3.0,
+        "description": "Description 3",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+        "rating": {
+            "rate":3.0,
+            "count":300
+        }
+    }
+]

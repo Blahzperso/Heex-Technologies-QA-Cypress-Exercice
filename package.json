@@ -1,0 +1,15 @@
+{
+  "name": "heextech_exercice_cypress",
+  "version": "1.0.0",
+  "description": "Exercice Cypress pour Heex Technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nicholas Sauer",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^15.6.0"
+  }
+}
